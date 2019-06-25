@@ -1,0 +1,6 @@
+venv/*
+.idea/*
+secure.py
+__pychache__/*
+*.pyc
+
